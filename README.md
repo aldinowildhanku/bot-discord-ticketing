@@ -171,7 +171,7 @@ Saat ticket ditutup:
 ### 📦 Installation
 
 ```bash id="en_install"
-git clone https://github.com/username/discord-ticket-bot.git
+git clone https://github.com/aldinowildhanku/bot-discord-ticketing.git
 cd discord-ticket-bot
 npm install
 ```
