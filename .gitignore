@@ -1,0 +1,8 @@
+# Abaikan file environment yang berisi token/secret
+.env
+
+# Abaikan folder library (jika pakai Node.js)
+node_modules/
+
+# Abaikan file log
+*.log
